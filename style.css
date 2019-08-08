@@ -1,0 +1,21 @@
+.header-bg {
+  background-color: blue;
+  height: 20vh;
+}
+
+.footer-bg {
+  background-color: red;
+  height: 10vh;
+}
+
+.body-bg {
+  background-color: deepskyblue;
+}
+
+.body {
+  height: 50vh;
+}
+
+.link-color {
+  color: white!important;
+}
